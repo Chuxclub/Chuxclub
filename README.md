@@ -24,4 +24,4 @@ Computer Sciences at the University of Poitiers (3rd Year)
 
 
 ## 📫 How to reach me: ...
-My professional email adress: <a href="mailto:florian-1992@hotmail.fr">florian-1992@hotmail.fr</a>
+My professional email adress: <a href="mailto:flegendre.pro@gmail.com">flegendre.pro@gmail.com</a>
