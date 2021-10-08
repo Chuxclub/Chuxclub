@@ -20,7 +20,7 @@ Computer Sciences at the University of Poitiers (3rd Year)
 
 
 ## 🔭 I’m currently working on ...
-My studies at the University of Toulouse 3 Paul Sabatier. I'm also looking for an internship or an apprenticeship at Toulouse and I'm also working on an android app "Gymaths" as a side project. This app main goal is to provide automatically generated and automatically corrected math exercises for middle school students up to high school students.
+My studies at the University of Toulouse 3 Paul Sabatier. I'm also looking for an internship or an apprenticeship at Toulouse and I'm working on an android app "Gymaths" as a side project. This app main goal is to provide automatically generated and automatically corrected math exercises for middle school students up to high school students.
 
 
 ## 📫 How to reach me: ...
