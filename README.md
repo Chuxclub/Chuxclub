@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-Computer Sciences at the University of Poitiers (3rd Year)
+Computer Sciences at the University of Toulouse 3 Paul Sabatier (4th year)
 
 
 ## 🔭 I’m currently working on ...
